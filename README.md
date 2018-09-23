@@ -1,0 +1,2 @@
+# ToastyPlugin
+ToastyPlugin for outsystem
